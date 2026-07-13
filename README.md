@@ -32,6 +32,7 @@ I'm currently work in LLM, and interested in CG.
 When I'm not coding, you can find me:  
 - Playing Basketball with friends 🏀  
 - Watching Anime
+- Learning Japanese
 
 <p align="center">
   <img src="./Curry.gif" width="400" />
