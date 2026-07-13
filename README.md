@@ -1,6 +1,6 @@
 # Hello, I'm FangliangZHENG
 
-I'm currently work in LLM, and interested in CG. 
+I'm currently working in LLM, and interested in CG. 
 
 <p align="center">
   <img src="./YuanBao.jpg" width="400" />
