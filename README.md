@@ -1,8 +1,12 @@
-# Hi, I'm FangliangZHENG
+# Hello, I'm FangliangZHENG
 
-I'm a programming newbie who loves building things with C++ & Python, and I'm diving deep into Large Language Models and Computer Graphics.
+I'm currently work in LLM, and interested in CG. 
 
----
+<p align="center">
+  <img src="./YuanBao.jpg" alt="My pet: YuanBao" width="400" />
+ <br>
+ <em>My Pet: YuanBao</em>
+</p>
 
 ## Education
 
@@ -11,8 +15,6 @@ I'm a programming newbie who loves building things with C++ & Python, and I'm di
 
 - Research Student, in Information Science and Technology  
   *Kyushu University (2026 – 2027)*  
-
----
 
 ## Tech & Learning
 
@@ -24,8 +26,6 @@ I'm a programming newbie who loves building things with C++ & Python, and I'm di
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
-
----
 
 ## Anime & Basketball
 
