@@ -30,8 +30,8 @@ I'm currently work in LLM, and interested in CG.
 ## Anime & Basketball
 
 When I'm not coding, you can find me:  
-- Playing basketball with friends 🏀  
-- Watching anime
+- Playing Basketball with friends 🏀  
+- Watching Anime
 
 <p align="center">
   <img src="./Curry.gif" width="400" />
@@ -39,6 +39,7 @@ When I'm not coding, you can find me:
 
 ## Let's Connect
 
-- Email: FangliangZHENG.outlook.com
+- Email-1: FangliangZHENG@outlook.com
+- Email-2: Zheng.Fangliang125@gmail.com
 
 *Feel free to check out my repos and star what you like!*
