@@ -3,7 +3,7 @@
 I'm currently work in LLM, and interested in CG. 
 
 <p align="center">
-  <img src="./YuanBao.jpg" alt="My pet: YuanBao" width="400" />
+  <img src="./YuanBao.jpg" width="400" />
  <br>
  <em>My Pet: YuanBao</em>
 </p>
@@ -37,12 +37,8 @@ When I'm not coding, you can find me:
   <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="200" />
 </p>
 
----
-
 ## Let's Connect
 
 - Email: FangliangZHENG.outlook.com
 
 *Feel free to check out my repos and star what you like!*
-
----
