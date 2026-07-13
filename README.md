@@ -34,7 +34,7 @@ When I'm not coding, you can find me:
 - Watching anime
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="200" />
+  <img src="./Curry.gif" width="400" />
 </p>
 
 ## Let's Connect
