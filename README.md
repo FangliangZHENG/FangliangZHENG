@@ -4,8 +4,8 @@ I'm currently working in LLM, and interested in CG.
 
 <p align="center">
   <img src="./YuanBao.jpg" width="400" />
- <br>
- <em>My Pet: YuanBao</em>
+  <br>
+  <em>My Pet: YuanBao</em>
 </p>
 
 ## Education
@@ -21,6 +21,11 @@ I'm currently working in LLM, and interested in CG.
 - C++ & OpenGL: I'm interested in Computer Graphics and their applications in Game Design.
 - Python & LLM: LLM's application in High Performance Physics Computation is also one of my interests.
 - Maths & Physics: They are always engaging.
+<p align="center">
+  <img src="./cloth simulation.png" width="400" />
+   <br>
+   <em>Cloth Simulation Demo</em>
+</p>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
