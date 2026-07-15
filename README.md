@@ -8,8 +8,6 @@ I'm currently working on LLM, and interested in CG.
   <em>My Pet: YuanBao</em>
 </p>
 
-![FangliangZHENG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FangliangZHENG)
-
 ## Education
 
 - Bachelor, in Electronic Information Engineering  
