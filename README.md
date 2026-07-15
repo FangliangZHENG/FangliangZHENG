@@ -8,7 +8,7 @@ I'm currently working on LLM, and interested in CG.
   <em>My Pet: YuanBao</em>
 </p>
 
-![FangliangZHENG's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FangliangZHENG)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FangliangZHENG&theme=dracula)
 
 ## Education
 
