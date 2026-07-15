@@ -7,6 +7,7 @@ I'm currently working on LLM, and interested in CG.
   <br>
   <em>My Pet: YuanBao</em>
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FangliangZHENG)
 
 ## Education
 
