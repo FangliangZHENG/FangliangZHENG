@@ -8,24 +8,6 @@ I'm currently working on LLM, and interested in CG.
   <em>My Pet: YuanBao</em>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <!-- 左侧内容：统计卡片 -->
-      <a href="https://github.com/stats-organization/github-stats-extended">
-        <img src="https://github-stats-extended.vercel.app/api?username=FangliangZHENG" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <!-- 右侧内容：你的文字 -->
-      💻 Working on LLM & CG<br>
-      🐱 Pet: YuanBao<br>
-      📍 From Xidian University, now in Japan<br>
-      🎯 Looking for CG research opportunities
-    </td>
-  </tr>
-</table>
-
 ## Education
 
 - Bachelor, in Electronic Information Engineering  
