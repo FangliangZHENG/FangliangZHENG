@@ -49,3 +49,5 @@ When I'm not coding, you can find me:
 - Email-2: Zheng.Fangliang125@gmail.com
 
 *Feel free to check out my repos and star what you like!*
+
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FangliangZHENG&theme=xcode)]ivity-graph)
